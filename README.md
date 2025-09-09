@@ -106,4 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Sanat1427/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Sanat1427/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Simulation
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Sanat1427/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
