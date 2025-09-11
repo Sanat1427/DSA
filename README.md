@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 ## Bit Manipulation
@@ -129,5 +132,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
