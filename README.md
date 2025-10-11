@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sanat1427/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sanat1427/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sanat1427/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanat1427/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Sanat1427/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Enumeration
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sanat1427/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sanat1427/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Queue
 |  |
 | ------- |
@@ -176,18 +180,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanat1427/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanat1427/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Binary Search
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanat1427/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
