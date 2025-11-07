@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Sanat1427/DSA/tree/master/2169-simple-bank-system) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanat1427/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanat1427/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sanat1427/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sanat1427/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sanat1427/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sanat1427/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sanat1427/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Heap (Priority Queue)
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sanat1427/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Simulation
 |  |
 | ------- |
@@ -247,10 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanat1427/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sanat1427/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bitmask
@@ -285,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanat1427/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 <!---LeetCode Topics End-->
