@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Sanat1427/DSA/tree/master/1006-vowel-spellchecker) |
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sanat1427/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanat1427/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanat1427/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Backtracking
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sanat1427/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Union Find
 |  |
