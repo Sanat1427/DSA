@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sanat1427/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sanat1427/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanat1427/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 ## Bit Manipulation
 |  |
@@ -196,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0474-ones-and-zeroes](https://github.com/Sanat1427/DSA/tree/master/0474-ones-and-zeroes) |
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sanat1427/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sanat1427/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -315,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
