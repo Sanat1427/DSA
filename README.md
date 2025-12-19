@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sanat1427/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Sanat1427/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
+| [0056-merge-intervals](https://github.com/Sanat1427/DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/Sanat1427/DSA/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Sanat1427/DSA/tree/master/0136-single-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sanat1427/DSA/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/Sanat1427/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanat1427/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
