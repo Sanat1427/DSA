@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sanat1427/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanat1427/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanat1427/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanat1427/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanat1427/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Backtracking
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sanat1427/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
