@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/Sanat1427/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Sanat1427/DSA/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Sanat1427/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sanat1427/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sanat1427/DSA/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/Sanat1427/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/Sanat1427/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sanat1427/DSA/tree/master/0213-house-robber-ii) |
 | [0474-ones-and-zeroes](https://github.com/Sanat1427/DSA/tree/master/0474-ones-and-zeroes) |
