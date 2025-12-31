@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sanat1427/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sanat1427/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sanat1427/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sanat1427/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sanat1427/DSA/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/Sanat1427/DSA/tree/master/0198-house-robber) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sanat1427/DSA/tree/master/0062-unique-paths) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sanat1427/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
 |  |
