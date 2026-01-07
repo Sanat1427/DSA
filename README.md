@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sanat1427/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sanat1427/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -493,4 +494,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sanat1427/DSA/tree/master/0070-climbing-stairs) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
