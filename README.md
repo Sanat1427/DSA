@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Sanat1427/DSA/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sanat1427/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sanat1427/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanat1427/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanat1427/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sanat1427/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Sanat1427/DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Sanat1427/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sanat1427/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -450,10 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Linked List
 |  |
