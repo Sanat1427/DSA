@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sanat1427/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Sanat1427/DSA/tree/master/2402-meeting-rooms-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Math
 |  |
 | ------- |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanat1427/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanat1427/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -542,4 +544,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sanat1427/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
