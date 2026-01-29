@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-best-sightseeing-pair](https://github.com/Sanat1427/DSA/tree/master/1014-best-sightseeing-pair) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Sanat1427/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1143-longest-common-subsequence](https://github.com/Sanat1427/DSA/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sanat1427/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanat1427/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sanat1427/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Sanat1427/DSA/tree/master/1463-cherry-pickup-ii) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/Sanat1427/DSA/tree/master/1006-vowel-spellchecker) |
 | [1143-longest-common-subsequence](https://github.com/Sanat1427/DSA/tree/master/1143-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sanat1427/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sanat1427/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sanat1427/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sanat1427/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
