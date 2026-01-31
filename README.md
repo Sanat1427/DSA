@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sanat1427/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Sanat1427/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Sanat1427/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sanat1427/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Sanat1427/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
@@ -566,4 +569,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sanat1427/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
