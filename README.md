@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Sanat1427/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sanat1427/DSA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanat1427/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sanat1427/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sanat1427/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sanat1427/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Sanat1427/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Sanat1427/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sanat1427/DSA/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanat1427/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Sanat1427/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Sanat1427/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Sanat1427/DSA/tree/master/0416-partition-equal-subset-sum) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sanat1427/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sanat1427/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
