@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sanat1427/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sanat1427/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sanat1427/DSA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sanat1427/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Sanat1427/DSA/tree/master/2169-simple-bank-system) |
 | [2402-meeting-rooms-iii](https://github.com/Sanat1427/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sanat1427/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanat1427/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Sanat1427/DSA/tree/master/3531-count-covered-buildings) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sanat1427/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Sanat1427/DSA/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Math
 |  |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sanat1427/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Shortest Path
 |  |
