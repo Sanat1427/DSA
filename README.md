@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Sanat1427/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Sanat1427/DSA/tree/master/3640-trionic-array-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3583-count-special-triplets](https://github.com/Sanat1427/DSA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sanat1427/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanat1427/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -520,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Sanat1427/DSA/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Sanat1427/DSA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bitmask
 |  |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sanat1427/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sanat1427/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
 |  |
 | ------- |
