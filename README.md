@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sanat1427/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sanat1427/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Sanat1427/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sanat1427/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sanat1427/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sanat1427/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sanat1427/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sanat1427/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanat1427/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1006-vowel-spellchecker](https://github.com/Sanat1427/DSA/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/Sanat1427/DSA/tree/master/1048-longest-string-chain) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Sanat1427/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sanat1427/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sanat1427/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/Sanat1427/DSA/tree/master/1895-largest-magic-square) |
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanat1427/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanat1427/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/Sanat1427/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sanat1427/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
