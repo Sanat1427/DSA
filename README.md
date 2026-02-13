@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanat1427/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Sanat1427/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
+| [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanat1427/DSA/tree/master/0229-majority-element-ii) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Sanat1427/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sanat1427/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanat1427/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanat1427/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanat1427/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sanat1427/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sanat1427/DSA/tree/master/0992-subarrays-with-k-different-integers) |
