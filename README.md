@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sanat1427/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sanat1427/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0799-champagne-tower](https://github.com/Sanat1427/DSA/tree/master/0799-champagne-tower) |
 | [0931-minimum-falling-path-sum](https://github.com/Sanat1427/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sanat1427/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1014-best-sightseeing-pair](https://github.com/Sanat1427/DSA/tree/master/1014-best-sightseeing-pair) |
