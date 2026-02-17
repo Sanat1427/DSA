@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
+| [0401-binary-watch](https://github.com/Sanat1427/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Sanat1427/DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sanat1427/DSA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Sanat1427/DSA/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/Sanat1427/DSA/tree/master/0401-binary-watch) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sanat1427/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sanat1427/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sanat1427/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
