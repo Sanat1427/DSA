@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Sanat1427/DSA/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Sanat1427/DSA/tree/master/0368-largest-divisible-subset) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sanat1427/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sanat1427/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/Sanat1427/DSA/tree/master/1390-four-divisors) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Sanat1427/DSA/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Sanat1427/DSA/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sanat1427/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sanat1427/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sanat1427/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sanat1427/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
