@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sanat1427/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanat1427/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sanat1427/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -669,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sanat1427/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanat1427/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sanat1427/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
@@ -676,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0110-balanced-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sanat1427/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Sanat1427/DSA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Sanat1427/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sanat1427/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph Theory
