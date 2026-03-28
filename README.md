@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanat1427/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sanat1427/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/Sanat1427/DSA/tree/master/2402-meeting-rooms-iii) |
+| [2573-find-the-string-with-lcp](https://github.com/Sanat1427/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2906-construct-product-matrix](https://github.com/Sanat1427/DSA/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sanat1427/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sanat1427/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sanat1427/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sanat1427/DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2573-find-the-string-with-lcp](https://github.com/Sanat1427/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Sanat1427/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sanat1427/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sanat1427/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/Sanat1427/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1975-maximum-matrix-sum](https://github.com/Sanat1427/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sanat1427/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2573-find-the-string-with-lcp](https://github.com/Sanat1427/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Sanat1427/DSA/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sanat1427/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sanat1427/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sanat1427/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Sanat1427/DSA/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2573-find-the-string-with-lcp](https://github.com/Sanat1427/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sanat1427/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Sanat1427/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sanat1427/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -527,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sanat1427/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sanat1427/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sanat1427/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2573-find-the-string-with-lcp](https://github.com/Sanat1427/DSA/tree/master/2573-find-the-string-with-lcp) |
 | [2887-sort-vowels-in-a-string](https://github.com/Sanat1427/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sanat1427/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sanat1427/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -778,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Sanat1427/DSA/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
