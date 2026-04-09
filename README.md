@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Sanat1427/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Sanat1427/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Sanat1427/DSA/tree/master/0039-combination-sum) |
 | [0056-merge-intervals](https://github.com/Sanat1427/DSA/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Sanat1427/DSA/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/Sanat1427/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Sanat1427/DSA/tree/master/0494-target-sum) |
 ## Greedy
