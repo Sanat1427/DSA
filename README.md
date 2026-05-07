@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sanat1427/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0860-lemonade-change](https://github.com/Sanat1427/DSA/tree/master/0860-lemonade-change) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sanat1427/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/Sanat1427/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sanat1427/DSA/tree/master/0944-delete-columns-to-make-sorted) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Sanat1427/DSA/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Sanat1427/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0860-lemonade-change](https://github.com/Sanat1427/DSA/tree/master/0860-lemonade-change) |
 | [1382-balance-a-binary-search-tree](https://github.com/Sanat1427/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sanat1427/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
