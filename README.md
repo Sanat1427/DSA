@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sanat1427/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sanat1427/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sanat1427/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sanat1427/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Sanat1427/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-trionic-array-ii](https://github.com/Sanat1427/DSA/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sanat1427/DSA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sanat1427/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sanat1427/DSA/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sanat1427/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sanat1427/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/Sanat1427/DSA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Sanat1427/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Sanat1427/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sanat1427/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sanat1427/DSA/tree/master/3623-count-number-of-trapezoids-i) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sanat1427/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sanat1427/DSA/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sanat1427/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Sanat1427/DSA/tree/master/3830-find-closest-person) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sanat1427/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sanat1427/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sanat1427/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
 | ------- |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sanat1427/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sanat1427/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Design
 |  |
