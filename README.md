@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanat1427/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sanat1427/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sanat1427/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Sanat1427/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/Sanat1427/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
@@ -698,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sanat1427/DSA/tree/master/0020-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0144-binary-tree-preorder-traversal) |
