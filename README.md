@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanat1427/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanat1427/DSA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sanat1427/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sanat1427/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sanat1427/DSA/tree/master/0056-merge-intervals) |
@@ -447,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Sanat1427/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sanat1427/DSA/tree/master/0055-jump-game) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Sanat1427/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanat1427/DSA/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanat1427/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sanat1427/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sanat1427/DSA/tree/master/0455-assign-cookies) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sanat1427/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -726,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Sanat1427/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sanat1427/DSA/tree/master/0503-next-greater-element-ii) |
