@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/Sanat1427/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sanat1427/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sanat1427/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sanat1427/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1861-rotating-the-box](https://github.com/Sanat1427/DSA/tree/master/1861-rotating-the-box) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sanat1427/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sanat1427/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sanat1427/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sanat1427/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sanat1427/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sanat1427/DSA/tree/master/1048-longest-string-chain) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sanat1427/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Sanat1427/DSA/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sanat1427/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sanat1427/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
