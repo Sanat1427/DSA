@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sanat1427/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sanat1427/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sanat1427/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Sanat1427/DSA/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/Sanat1427/DSA/tree/master/2169-simple-bank-system) |
 ## Bucket Sort
 |  |
@@ -747,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sanat1427/DSA/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sanat1427/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Sanat1427/DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/Sanat1427/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanat1427/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sanat1427/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sanat1427/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sanat1427/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sanat1427/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/Sanat1427/DSA/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanat1427/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sanat1427/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -899,4 +902,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sanat1427/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Sanat1427/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
