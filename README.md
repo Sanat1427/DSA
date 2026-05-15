@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sanat1427/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sanat1427/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
+| [2104-sum-of-subarray-ranges](https://github.com/Sanat1427/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sanat1427/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sanat1427/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Sanat1427/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -739,6 +740,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Sanat1427/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sanat1427/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2104-sum-of-subarray-ranges](https://github.com/Sanat1427/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sanat1427/DSA/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/Sanat1427/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Sanat1427/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Linked List
 |  |
 | ------- |
