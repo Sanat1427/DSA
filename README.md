@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanat1427/DSA/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sanat1427/DSA/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanat1427/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanat1427/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sanat1427/DSA/tree/master/0496-next-greater-element-i) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sanat1427/DSA/tree/master/0239-sliding-window-maximum) |
+| [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanat1427/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sanat1427/DSA/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sanat1427/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sanat1427/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sanat1427/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sanat1427/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sanat1427/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Sanat1427/DSA/tree/master/0901-online-stock-span) |
 | [2169-simple-bank-system](https://github.com/Sanat1427/DSA/tree/master/2169-simple-bank-system) |
@@ -785,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanat1427/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
