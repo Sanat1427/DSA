@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Sanat1427/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanat1427/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sanat1427/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanat1427/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/Sanat1427/DSA/tree/master/3531-count-covered-buildings) |
@@ -625,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Sanat1427/DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sanat1427/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sanat1427/DSA/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Sanat1427/DSA/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sanat1427/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Sanat1427/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sanat1427/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
