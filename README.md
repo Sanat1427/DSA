@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sanat1427/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sanat1427/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sanat1427/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sanat1427/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/Sanat1427/DSA/tree/master/3379-transformed-array) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Sanat1427/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sanat1427/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3462-vowels-game-in-a-string](https://github.com/Sanat1427/DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sanat1427/DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sanat1427/DSA/tree/master/3623-count-number-of-trapezoids-i) |
