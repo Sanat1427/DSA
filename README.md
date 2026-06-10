@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/Sanat1427/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sanat1427/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sanat1427/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Sanat1427/DSA/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sanat1427/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sanat1427/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Sanat1427/DSA/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
 |  |
 | ------- |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Sanat1427/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Merge Sort
