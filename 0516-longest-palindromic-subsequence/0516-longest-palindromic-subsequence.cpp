@@ -1,28 +1,26 @@
 class Solution {
 public:
-    int lcs(string&s1,string&s2){
-        int n = s1.size();
-        int m = s2.size();
-        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
-        for(int i =0;i<=n;i++)
-        dp[i][0]=0;
-        for(int i =0;i<=m;i++){
-            dp[0][i]=0;
-        }
-        for(int i =1;i<=n;i++){
-            for(int j =1;j<=m;j++){
-                if(s1[i-1]==s2[j-1]){
-                    dp[i][j]=1+dp[i-1][j-1];
+    int func(string t, string s, int n,int m,vector<vector<int>>&dp){
+        int ans =0;
+        for(int ind1=1;ind1<=n;ind1++){
+            for(int ind2=1;ind2<=n;ind2++){
+                if(t[ind1-1]==s[ind2-1]){
+                    dp[ind1][ind2]=1+dp[ind1-1][ind2-1];
+                    ans=max(ans,dp[ind1][ind2]);
                 }
-                else
-                dp[i][j]=max(dp[i][j-1],dp[i-1][j]);
+                else {
+                    dp[ind1][ind2] = max(dp[ind1 - 1][ind2],
+                                   dp[ind1][ind2 - 1]);
+                }
             }
         }
-        return dp[n][m];
+        return dp[n][n];
     }
     int longestPalindromeSubseq(string s) {
-        string t = s;
-        reverse(s.begin(),s.end());
-        return lcs(t,s);
+        string t = s;// if empty it will return void
+          reverse(t.begin(),t.end());
+        int n = t.size();
+        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        return func(t,s,n,n,dp);
     }
 };
