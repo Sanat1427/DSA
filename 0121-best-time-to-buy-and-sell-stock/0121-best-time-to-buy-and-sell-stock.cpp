@@ -6,8 +6,8 @@ public:
         int maxi=0;
         for(int i =1;i<n;i++){
             int curr= prices[i]-mini;
-            maxi=max(curr,maxi);
             mini=min(mini,prices[i]);
+            maxi=max(maxi,curr);
         }
         return maxi;
     }
