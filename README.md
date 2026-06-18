@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Sanat1427/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sanat1427/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Sanat1427/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Sanat1427/DSA/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sanat1427/DSA/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Sanat1427/DSA/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
