@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Sanat1427/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1006-vowel-spellchecker](https://github.com/Sanat1427/DSA/tree/master/1006-vowel-spellchecker) |
 | [1048-longest-string-chain](https://github.com/Sanat1427/DSA/tree/master/1048-longest-string-chain) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanat1427/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Sanat1427/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sanat1427/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -638,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Sanat1427/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/Sanat1427/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Sanat1427/DSA/tree/master/1143-longest-common-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanat1427/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Sanat1427/DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sanat1427/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sanat1427/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sanat1427/DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sanat1427/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [1189-maximum-number-of-balloons](https://github.com/Sanat1427/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sanat1427/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sanat1427/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
