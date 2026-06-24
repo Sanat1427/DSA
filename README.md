@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Sanat1427/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sanat1427/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Sanat1427/DSA/tree/master/0992-subarrays-with-k-different-integers) |
+| [0994-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sanat1427/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1006-vowel-spellchecker](https://github.com/Sanat1427/DSA/tree/master/1006-vowel-spellchecker) |
 | [1014-best-sightseeing-pair](https://github.com/Sanat1427/DSA/tree/master/1014-best-sightseeing-pair) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Sanat1427/DSA/tree/master/0733-flood-fill) |
 | [0840-magic-squares-in-grid](https://github.com/Sanat1427/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0931-minimum-falling-path-sum](https://github.com/Sanat1427/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Sanat1427/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sanat1427/DSA/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sanat1427/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Sanat1427/DSA/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sanat1427/DSA/tree/master/1073-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Sanat1427/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
