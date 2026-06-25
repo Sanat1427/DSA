@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Sanat1427/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
+| [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sanat1427/DSA/tree/master/0229-majority-element-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sanat1427/DSA/tree/master/0039-combination-sum) |
+| [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Sanat1427/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/Sanat1427/DSA/tree/master/0494-target-sum) |
 ## Greedy
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Sanat1427/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Sanat1427/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sanat1427/DSA/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanat1427/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Sanat1427/DSA/tree/master/0402-remove-k-digits) |
