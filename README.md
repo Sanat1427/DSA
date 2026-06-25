@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3838-weighted-word-mapping](https://github.com/Sanat1427/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Sanat1427/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanat1427/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Sanat1427/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3583-count-special-triplets](https://github.com/Sanat1427/DSA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/Sanat1427/DSA/tree/master/3713-longest-balanced-substring-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Sanat1427/DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3714-longest-balanced-substring-ii](https://github.com/Sanat1427/DSA/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Sanat1427/DSA/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Bitmask
 |  |
@@ -908,6 +912,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Sanat1427/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -921,10 +926,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Sanat1427/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Sanat1427/DSA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
 | ------- |
