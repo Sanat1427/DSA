@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Sanat1427/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/Sanat1427/DSA/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/Sanat1427/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanat1427/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sanat1427/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/Sanat1427/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Sanat1427/DSA/tree/master/2054-two-best-non-overlapping-events) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sanat1427/DSA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sanat1427/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sanat1427/DSA/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sanat1427/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Sanat1427/DSA/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Sanat1427/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Sanat1427/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
