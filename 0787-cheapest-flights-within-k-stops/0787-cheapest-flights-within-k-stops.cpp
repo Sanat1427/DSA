@@ -1,35 +1,42 @@
 class Solution {
-    #define P pair<int, pair<int,int>>
 public:
+#define P pair <int, pair<int,int>>
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-       
      
-vector<vector<pair<int, int>>> adj(n);
-         for(auto it : flights) {
-            adj[it[0]].push_back({it[1], it[2]});
-        }
-        vector<int>mindist(n,1e9);
+      vector<int>mindist(n,1e9);
+      queue<P>q;
+     vector<vector<pair<int,int>>> adj(n);
+      for(auto it : flights){
+        int u = it[0];
+        int v = it[1];
+        int p = it[2];
+        adj[u].push_back({v,p});
+      
+      }
         mindist[src]=0;
-        queue<P>q;
         q.push({0,{src,0}});
         while(!q.empty()){
-            auto p = q.front();
-            int stops = p.first;
-            int node = p.second.first;
-            int dist = p.second.second;
+            auto it = q.front();
             q.pop();
-            if(stops>k) continue;
-            for(auto it:adj[node]){
-                int adjnode = it.first;
-                int edgewt= it.second;
-                if(dist+edgewt<mindist[adjnode] && stops<=k){
-                    mindist[adjnode]=dist+edgewt;
-                    q.push({stops+1,{adjnode,dist+edgewt}});
+            int stop = it.first;
+            int node = it.second.first;
+            int dis = it.second.second;
+            if(stop>k) continue;
+            for(auto i :adj[node]){
+                int an = i.first;
+                int wt = i.second;
+                if(dis+wt<mindist[an]&& stop<=k){
+                    mindist[an]=dis+wt;
+                    q.push({stop+1,{an,dis+wt}});
                 }
+                
             }
+
         }
-        if(mindist[dst]==1e9)
-        return -1;
-        return mindist[dst];
+
+       if(mindist[dst]==1e9)
+       return -1;
+       return mindist[dst];
+
     }
 };
