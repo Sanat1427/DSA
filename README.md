@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sanat1427/DSA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Sanat1427/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Sanat1427/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanat1427/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sanat1427/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sanat1427/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Sanat1427/DSA/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanat1427/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/Sanat1427/DSA/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Sanat1427/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanat1427/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Sanat1427/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Backtracking
 |  |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Sanat1427/DSA/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanat1427/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Sanat1427/DSA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanat1427/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sanat1427/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Math
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Sanat1427/DSA/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Sanat1427/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sanat1427/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanat1427/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Sanat1427/DSA/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union Find
 |  |
@@ -918,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanat1427/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanat1427/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sanat1427/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanat1427/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Monotonic Queue
 |  |
@@ -1018,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sanat1427/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Sanat1427/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Sanat1427/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sanat1427/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/Sanat1427/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Recursion
 |  |
