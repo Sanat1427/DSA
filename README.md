@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sanat1427/DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanat1427/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sanat1427/DSA/tree/master/0547-number-of-provinces) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sanat1427/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sanat1427/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sanat1427/DSA/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Sanat1427/DSA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Sanat1427/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/Sanat1427/DSA/tree/master/0542-01-matrix) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanat1427/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Sanat1427/DSA/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sanat1427/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Sanat1427/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -870,6 +873,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sanat1427/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sanat1427/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sanat1427/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sanat1427/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Sanat1427/DSA/tree/master/0901-online-stock-span) |
@@ -1015,6 +1019,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sanat1427/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sanat1427/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sanat1427/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1043,6 +1048,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sanat1427/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sanat1427/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Sanat1427/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Sanat1427/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
