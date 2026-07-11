@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Sanat1427/DSA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sanat1427/DSA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Sanat1427/DSA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Sanat1427/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sanat1427/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sanat1427/DSA/tree/master/0057-insert-interval) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanat1427/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Sanat1427/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Sanat1427/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Sanat1427/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sanat1427/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sanat1427/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sanat1427/DSA/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sanat1427/DSA/tree/master/0217-contains-duplicate) |
@@ -711,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sanat1427/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sanat1427/DSA/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sanat1427/DSA/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Sanat1427/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sanat1427/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
