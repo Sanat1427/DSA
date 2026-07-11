@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanat1427/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sanat1427/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1612-avoid-flood-in-the-city](https://github.com/Sanat1427/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sanat1427/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Sanat1427/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sanat1427/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sanat1427/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sanat1427/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Sanat1427/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Sanat1427/DSA/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Sanat1427/DSA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Sanat1427/DSA/tree/master/1340-jump-game-v) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Sanat1427/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1463-cherry-pickup-ii](https://github.com/Sanat1427/DSA/tree/master/1463-cherry-pickup-ii) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sanat1427/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sanat1427/DSA/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sanat1427/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sanat1427/DSA/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -739,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanat1427/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sanat1427/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sanat1427/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sanat1427/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Sanat1427/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sanat1427/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -864,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Sanat1427/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Sanat1427/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sanat1427/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/Sanat1427/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Sanat1427/DSA/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Sanat1427/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Sanat1427/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
