@@ -735,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sanat1427/DSA/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Sanat1427/DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Sanat1427/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanat1427/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Sanat1427/DSA/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sanat1427/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sanat1427/DSA/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/Sanat1427/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanat1427/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sanat1427/DSA/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Sanat1427/DSA/tree/master/0455-assign-cookies) |
