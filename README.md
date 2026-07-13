@@ -766,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Sanat1427/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/Sanat1427/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sanat1427/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Sanat1427/DSA/tree/master/1392-longest-happy-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Sanat1427/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/Sanat1427/DSA/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -1197,10 +1198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/Sanat1427/DSA/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/Sanat1427/DSA/tree/master/1392-longest-happy-prefix) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sanat1427/DSA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Union-Find
 |  |
@@ -1219,6 +1222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Sanat1427/DSA/tree/master/0796-rotate-string) |
+| [1392-longest-happy-prefix](https://github.com/Sanat1427/DSA/tree/master/1392-longest-happy-prefix) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Sanat1427/DSA/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Data Stream
 |  |
