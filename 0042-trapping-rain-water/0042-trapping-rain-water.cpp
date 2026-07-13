@@ -1,32 +1,32 @@
 class Solution {
 public:
     int trap(vector<int>& height) {
-        int n = height.size();
-        int left=0;
-        int right = n-1;
-        int leftmax=0;
-        int rightmax=0;
-        int total =0;
-        while(left<right){
-            if(height[left]<=height[right]){
-                if(leftmax>height[left]){
-                    total+=leftmax-height[left];
-                }
-                else{
-                    leftmax= height[left];
-                }
-                left++;
+       int n = height.size();
+       int l =0;
+       int r = n-1;
+       int lm= 0;
+       int rm=0;
+       int total =0;
+       while(l<r){
+        if(height[l]<=height[r]){
+            if(lm>height[l]){
+                total+=lm-height[l];
             }
             else{
-                if(rightmax>height[right]){
-                    total+=rightmax-height[right];
-                }
-                else{
-                    rightmax= height[right];
-                }
-                right--;
+               lm= height[l];
             }
+            l++;
         }
-        return total;
+        else{
+            if(rm>height[r]){
+                total+=rm-height[r];
+            }
+            else{
+                rm=height[r];
+            }
+            r--;
+        }
+       } 
+       return total;
     }
 };
