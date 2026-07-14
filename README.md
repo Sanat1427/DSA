@@ -858,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/Sanat1427/DSA/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sanat1427/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/Sanat1427/DSA/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Sanat1427/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/Sanat1427/DSA/tree/master/1048-longest-string-chain) |
 | [1861-rotating-the-box](https://github.com/Sanat1427/DSA/tree/master/1861-rotating-the-box) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sanat1427/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1005,6 +1006,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanat1427/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
+| [0876-middle-of-the-linked-list](https://github.com/Sanat1427/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sanat1427/DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
 |  |
