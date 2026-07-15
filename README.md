@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanat1427/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Sanat1427/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sanat1427/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sanat1427/DSA/tree/master/0355-design-twitter) |
@@ -1010,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanat1427/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Sanat1427/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Sanat1427/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sanat1427/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -1054,6 +1056,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanat1427/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Sanat1427/DSA/tree/master/0169-majority-element) |
@@ -1085,6 +1088,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sanat1427/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Sanat1427/DSA/tree/master/0493-reverse-pairs) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sanat1427/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sanat1427/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
