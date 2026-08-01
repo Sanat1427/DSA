@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sanat1427/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sanat1427/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sanat1427/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sanat1427/DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sanat1427/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Sanat1427/DSA/tree/master/0090-subsets-ii) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Sanat1427/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sanat1427/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Sanat1427/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sanat1427/DSA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Sanat1427/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Sanat1427/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sanat1427/DSA/tree/master/0200-number-of-islands) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Sanat1427/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sanat1427/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Sanat1427/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sanat1427/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sanat1427/DSA/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
 | [0401-binary-watch](https://github.com/Sanat1427/DSA/tree/master/0401-binary-watch) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sanat1427/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sanat1427/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Sanat1427/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Sanat1427/DSA/tree/master/0100-same-tree) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sanat1427/DSA/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Sanat1427/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Sanat1427/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Sanat1427/DSA/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Sanat1427/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Sanat1427/DSA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Sanat1427/DSA/tree/master/0126-word-ladder-ii) |
